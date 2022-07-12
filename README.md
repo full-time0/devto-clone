@@ -3,7 +3,7 @@
 This repository contains code for Dev.to clone in reactjs.
 
 View Demo:
-https://devto.netlify.app/
+http://react-devto.netlify.app/
 
 ### Detected Warnings at Production: 
 --> At hreff attribute of a link write /# instead of just #
